@@ -6,7 +6,7 @@ The ne HOriseon website that meets accessibility standarts ad has semantic HTML 
 
 ## Screenshots
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/01-html-css-git-homework-demo.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/screenshot.png)
 
 ## Links to Application
 
