@@ -2,7 +2,7 @@
 
 ## Description
 
-The ne HOriseon website that meets accessibility standarts ad has semantic HTML elements. I updated the images to contain description all tags.
+The new Horiseon website that meets accessibility standarts ad has semantic HTML elements. I updated the images to contain description all tags.
 
 ## Screenshots
 
